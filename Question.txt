@@ -16,6 +16,7 @@ concept of web tokens
 concept of cors , XSS
 how cron work
 framework , library , package , modules 
+npm and npx
 event propagation
 dom mutation
 mutation observer
