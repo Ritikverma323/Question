@@ -1,0 +1,71 @@
+css
+clip path
+print css
+how accelerated mobile pages work
+
+Javascript
+Deep clone and shadow clone
+Window object and document object 
+position and coordinates with respect to Document and window
+browser api and dom api 
+ssh 
+Type of cache 
+cookies, session , authorisation
+concept of web tokens 
+concept of cors , XSS
+how cron work
+framework , library , package , modules 
+event propagation
+dom mutation
+mutation observer
+prototype
+prototype inheritence
+set
+map
+weakmap
+reduce method
+symbols
+iterator
+objectassign
+promise,  promise.all(), promise.race()
+Debugging using chrome developer tools
+oops in javascript
+call , apply, bind
+this keyword inside and outside arrow function
+concept of design pattern 
+
+Database
+database designing and modelling to avoid redundancy
+mongodb Aggregation 
+
+
+API
+Types of api
+Dfference in Soap and Rest api
+
+React 
+webpacks
+Redux
+Mutter
+material ui
+context API
+flux, databinding, unidirectional databinding
+how to create admin dashboard 
+
+
+Node
+Event loop
+thread, buffer
+mvc and Mvt architecture
+websocket and webrtc concept
+node cron task scheduler
+Redis
+GraphQL
+
+
+
+
+
+
+
+
