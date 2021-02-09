@@ -1,7 +1,12 @@
 css
 clip path
 print css
+srcset
 how accelerated mobile pages work
+
+
+ssl
+bandwidth and Latency
 
 Javascript
 Deep clone and shadow clone
