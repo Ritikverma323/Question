@@ -7,6 +7,7 @@ how accelerated mobile pages work
 
 ssl
 bandwidth and Latency
+proxy
 
 Javascript
 Deep clone and shadow clone
@@ -15,7 +16,7 @@ position and coordinates with respect to Document and window
 browser api and dom api 
 ssh 
 Type of cache 
-http cookies an javascript cookies , session , authorisation
+http cookies and javascript cookies , session , authorisation , web tokens
 Detect multiple user sign in
 concept of web tokens 
 concept of cors , XSS
