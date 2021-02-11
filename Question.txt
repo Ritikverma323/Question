@@ -69,7 +69,7 @@ material ui
 context API
 flux, databinding, unidirectional databinding
 how to create admin dashboard 
-
+pagination
 
 Node
 Event loop
