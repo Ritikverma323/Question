@@ -23,6 +23,7 @@ concept of cors , XSS
 how cron work
 framework , library , package , modules 
 npm and npx
+
 event propagation
 dom mutation
 mutation observer
@@ -58,8 +59,11 @@ branch and merging
 React 
 webpacks
 Redux
+React routers
+Route protection
 firebase
 Mutter
+wysiwyg editor
 material ui
 context API
 flux, databinding, unidirectional databinding
