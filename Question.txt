@@ -61,6 +61,7 @@ webpacks
 Redux
 React routers
 Route protection
+Reducer
 firebase
 Mutter
 wysiwyg editor
