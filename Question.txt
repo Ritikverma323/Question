@@ -50,6 +50,10 @@ API
 Types of api
 Dfference in Soap and Rest api
 
+Git 
+git stash
+branch and merging
+
 React 
 webpacks
 Redux
