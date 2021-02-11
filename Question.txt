@@ -10,6 +10,7 @@ bandwidth and Latency
 proxy
 
 Javascript
+
 Deep clone and shadow clone
 Window object and document object 
 position and coordinates with respect to Document and window
@@ -25,6 +26,7 @@ framework , library , package , modules
 npm and npx
 
 event propagation
+namespace,functioanal programing ,First-class functions
 dom mutation
 mutation observer
 prototype
