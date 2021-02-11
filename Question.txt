@@ -53,6 +53,7 @@ Dfference in Soap and Rest api
 React 
 webpacks
 Redux
+firebase
 Mutter
 material ui
 context API
@@ -63,6 +64,20 @@ how to create admin dashboard
 Node
 Event loop
 thread, buffer
+event emitter
+set cookies and seesion
+gulp
+Http-errors
+loadash
+Cheerio 
+web scraping using node js
+nodemailer
+PDFKit
+
+
+Cors
+passport js 
+
 mvc and Mvt architecture
 websocket and webrtc concept
 node cron task scheduler
