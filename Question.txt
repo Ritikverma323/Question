@@ -39,7 +39,8 @@ reduce method
 symbols
 iterator
 Decorators , getter, setter
-
+currying
+implicit, explicit,new,lexical,default binding
 fetch api
 objectassign
 promise,  promise.all(), promise.race()
@@ -48,6 +49,7 @@ JavaScript proxies
 oops in javascript
 call , apply, bind
 this keyword inside and outside arrow function
+import , export default, named export
 concept of design pattern 
 
 Database
@@ -78,6 +80,7 @@ Redux
 React routers
 Route protection
 hooks
+custom hooks
 PropTypes
 Memoizing React.memo and useMemo
 
