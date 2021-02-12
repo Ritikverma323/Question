@@ -20,13 +20,14 @@ Type of cache
 http cookies and javascript cookies , session , authorisation , web tokens
 Detect multiple user sign in
 concept of web tokens 
-concept of cors , XSS
+concept of cors , XSS , CSRF
 how cron work
 framework , library , package , modules 
 npm and npx
 
 event propagation
 namespace,functioanal programing ,First-class functions
+higher order function
 dom mutation
 mutation observer
 prototype
@@ -37,9 +38,13 @@ weakmap
 reduce method
 symbols
 iterator
+Decorators , getter, setter
+
+fetch api
 objectassign
 promise,  promise.all(), promise.race()
 Debugging using chrome developer tools
+JavaScript proxies
 oops in javascript
 call , apply, bind
 this keyword inside and outside arrow function
@@ -57,21 +62,37 @@ Dfference in Soap and Rest api
 Git 
 git stash
 branch and merging
+Rebase
 
 React 
+
 webpacks
+React lifecycle method
+Error boundaries
+Portals
+ISOMORPHIC RENDERING
+formsy-react
+React.suspense and React.lazy
+
 Redux
 React routers
 Route protection
+hooks
+PropTypes
+Memoizing React.memo and useMemo
+
 Reducer
 firebase
-Mutter
+Muttler
 wysiwyg editor
 material ui
 context API
 flux, databinding, unidirectional databinding
 how to create admin dashboard 
-pagination
+pagination , infinite scroll 
+MobX 
+Debugging with React Developer Tools
+unit test and snapshot testing
 
 Node
 Event loop
