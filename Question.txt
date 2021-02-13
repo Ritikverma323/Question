@@ -54,6 +54,7 @@ concept of design pattern
 
 Database
 database designing and modelling to avoid redundancy
+connection pools and pool sizing
 mongodb Aggregation 
 
 
@@ -109,11 +110,8 @@ Cheerio
 web scraping using node js
 nodemailer
 PDFKit
-
-
 Cors
 passport js 
-
 mvc and Mvt architecture
 websocket and webrtc concept
 node cron task scheduler
