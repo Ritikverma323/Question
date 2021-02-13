@@ -102,6 +102,11 @@ Node
 Event loop
 thread, buffer
 event emitter
+microservice
+first-tick and event handler
+asynchronous control flow
+memmory leak
+Coroutines , subroutines 
 set cookies and seesion
 gulp
 Http-errors
