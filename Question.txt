@@ -8,6 +8,7 @@ how accelerated mobile pages work
 ssl
 bandwidth and Latency
 proxy
+reverse proxy
 
 Javascript
 
@@ -56,6 +57,7 @@ Database
 database designing and modelling to avoid redundancy
 connection pools and pool sizing
 mongodb Aggregation 
+mongodb query optimise using redis cache 
 
 
 API
