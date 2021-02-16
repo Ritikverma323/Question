@@ -40,6 +40,7 @@ reduce method
 symbols
 iterator
 Decorators , getter, setter
+closure, callback
 currying
 implicit, explicit,new,lexical,default binding
 fetch api
@@ -76,6 +77,7 @@ React lifecycle method
 Error boundaries
 Portals
 ISOMORPHIC RENDERING
+form validation
 formsy-react
 React.suspense and React.lazy
 
@@ -109,6 +111,7 @@ first-tick and event handler
 asynchronous control flow
 memmory leak
 Coroutines , subroutines 
+custom midlleware
 set cookies and seesion
 login history and all active session
 socket.io
